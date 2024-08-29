@@ -48,7 +48,7 @@ Me enfoco en crear productos de alta calidad, siempre buscando estar actualizado
 * **Full Stack Web Developer en Henry** (Marzo 2024 - Agosto 2024)
 * **Web Developer en Scrum Latam** (Agosto 2024 - Presente)
 	+ Formar parte del equipo de desarrollo de la web.
-	+ Brindar soluciones y herramientas para lograr los objetivos propuestos del equipo para entregar el producto deseado en cada sprint
+	+ Brindar soluciones y herramientas para lograr los objetivos propuestos del equipo para entregar el producto deseado en cada sprint 
 
 ### Educación
 
