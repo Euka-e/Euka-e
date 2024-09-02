@@ -1,6 +1,6 @@
 # Eric David Diaz
 
-## Full Stack Web Developer & Teaching Assistant
+## Full Stack Web Developer
 
 ### Contacto
 
