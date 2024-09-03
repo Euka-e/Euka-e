@@ -1,14 +1,14 @@
 # Eric David Diaz
 
 ## Full Stack Web Developer
-
-### Contacto
+  
+### Contact
 
 * Mobile: +54 9 2920538161
 * Email: [ericdiazeuka@gmail.com](mailto:ericdiazeuka@gmail.com)
 * LinkedIn: [www.linkedin.com/in/eric-diaz-euka](http://www.linkedin.com/in/eric-diaz-euka)
 
-### Habilidades principales
+### Main Skills
 
 * NestJS
 * Next.js
@@ -16,7 +16,7 @@
 * Node
 * Swagger API
 
-### Certificaciones
+### Certifications
 
 * EF SET English Certificate 72/100 (C2 Proficient) - 2024
 * Cambridge FCE First Certificate (B1 Proficient) - 2020
