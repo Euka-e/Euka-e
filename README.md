@@ -4,7 +4,7 @@
   
 ### Contact
 
-* Mobile: +54 9 2920538161
+* Mobile: +54 9 2984893157
 * Email: [ericdiazeuka@gmail.com](mailto:ericdiazeuka@gmail.com)
 * LinkedIn: [www.linkedin.com/in/eric-diaz-euka](http://www.linkedin.com/in/eric-diaz-euka)
 
@@ -54,5 +54,5 @@ Me enfoco en crear productos de alta calidad, siempre buscando estar actualizado
 
 * **ESRN 19** (2017 - 2021)
 	+ Bachiller en tecnología de la información.
-* **Henry** (Marzo 2024 - Agosto 2024)
+* **Henry** (Abril 2024 - Agosto 2024)
 	+ Full Stack Web Developer, Desarrollo de aplicaciones web
