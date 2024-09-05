@@ -42,7 +42,7 @@ Me enfoco en crear productos de alta calidad, siempre buscando estar actualizado
 
 ### Experiencia
 
-* **Teaching Assistant en Henry** (Junio 2024 - Agosto - 2024)
+* **Teaching Assistant en Henry** (Junio 2024 - Agosto - 2024) 
 	+ Acompañamiento a alumnos de Full Stack Web Developer en dificultades técnicas, comunicativas administrativas
 	+ Brindar herramientas para resolución de problemas técnicos y trabajar habilidades blandas como la comunicación, manejo de la frustración y la empatía.
 * **Full Stack Web Developer en Henry** (Marzo 2024 - Agosto 2024)
