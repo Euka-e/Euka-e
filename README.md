@@ -23,11 +23,11 @@
 
 ### Summary
 
-Soy un apasionado desarrollador full stack con experiencia en construir soluciones backend robustas y eficientes. Mi especialidad abarca una variedad de tecnologías y herramientas que me permiten construir aplicaciones web dinámicas y escalables.
+I am a passionate full stack developer with experience in building robust and efficient backend solutions. My specialty covers a variety of technologies and tools that allow me to build dynamic and scalable web applications.
 
-Me enfoco en crear productos de alta calidad, siempre buscando estar actualizado con las últimas tendencias y mejores prácticas en desarrollo de software. Mi objetivo es entregar código limpio, mantenible y eficiente, asegurando la satisfacción del cliente y el éxito del proyecto.
+I focus on creating high-quality products, always seeking to stay up to date with the latest trends and best practices in software development. My goal is to deliver clean, maintainable and efficient code, ensuring customer satisfaction and project success.
 
-### Lo que me motiva
+### What motivates me
 
 * Resolver problemas complejos con soluciones simples y elegantes
 * Colaborar en equipos multidisciplinarios para alcanzar objetivos comunes
@@ -36,23 +36,23 @@ Me enfoco en crear productos de alta calidad, siempre buscando estar actualizado
 
 ### Proyectos destacados
 
-* Desarrollo de aplicaciones e-commerce escalables y robustas
-* Integración de APIs y servicios de terceros
-* Implementación de sistemas de autenticación y autorización seguros
+* Solve complex problems with simple and elegant solutions
+* APIs Integration and third services
+* Implementation of secure authentication and authorization systems
 
-### Experiencia
+### Experience
 
-* **Teaching Assistant en Henry** (Junio 2024 - Agosto - 2024) 
-	+ Acompañamiento a alumnos de Full Stack Web Developer en dificultades técnicas, comunicativas administrativas
-	+ Brindar herramientas para resolución de problemas técnicos y trabajar habilidades blandas como la comunicación, manejo de la frustración y la empatía.
-* **Full Stack Web Developer en Henry** (Marzo 2024 - Agosto 2024)
-* **Web Developer en Scrum Latam** (Agosto 2024 - Presente)
-	+ Formar parte del equipo de desarrollo de la web.
-	+ Brindar soluciones y herramientas para lograr los objetivos propuestos del equipo para entregar el producto deseado en cada sprint 
+* **Teaching Assistant at Henry** (June 2024 - August - 2024) 
+	+ Accompaniment to Full Stack Web Developer students in technical and administrative communication difficulties
+	+ Provide tools to resolve technical problems and work on soft skills such as communication, frustration management and empathy.
+* **Full Stack Web Developer at Henry** (March 2024 - August 2024)
+* **Web Developer at Scrum Latam** (August 2024 - Presente)
+	+ Be part of the web development team.
+	+ Provide solutions and tools to achieve the team's proposed objectives to deliver the desired product in each sprint
 
-### Educación
+### Education
 
 * **ESRN 19** (2017 - 2021)
-	+ Bachiller en tecnología de la información.
-* **Henry** (Abril 2024 - Agosto 2024)
-	+ Full Stack Web Developer, Desarrollo de aplicaciones web
+	+ Bachelor in information technology.
+* **Henry** (April 2024 - August 2024)
+	+ Full Stack Web Developer, Web Application Development
