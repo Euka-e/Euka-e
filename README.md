@@ -34,7 +34,7 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 * Aprender y aplicar nuevas tecnologías y metodologías
 * Mejorar la experiencia del usuario final
 
-### Proyectos destacados
+### Highlights
 
 * Solve complex problems with simple and elegant solutions
 * APIs Integration and third services
