@@ -29,10 +29,10 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 
 ### What motivates me
 
-* Resolver problemas complejos con soluciones simples y elegantes
-* Colaborar en equipos multidisciplinarios para alcanzar objetivos comunes
-* Aprender y aplicar nuevas tecnologías y metodologías
-* Mejorar la experiencia del usuario final
+* Solve complex problems with simple and elegant solutions
+* Collaborate in multidisciplinary teams to achieve common objectives
+* Learn and apply new technologies and methodologies
+* Improve end user experience
 
 ### Highlights
 
