@@ -36,7 +36,6 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 
 ### Highlights
 
-* Solve complex problems with simple and elegant solutions
 * APIs Integration and third services
 * Implementation of secure authentication and authorization systems
 
