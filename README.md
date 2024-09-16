@@ -13,11 +13,13 @@
 * NestJS
 * Next.js
 * ExpressJS
-* Node
+* Node.js
 * Swagger API
 
 ### Certifications
 
+* Full Stack Web Developer (Henry) - 2024
+* Teaching Assistant (Henry) - 2024
 * EF SET English Certificate 72/100 (C2 Proficient) - 2024
 * Cambridge FCE First Certificate (B1 Proficient) - 2020
 
