@@ -31,7 +31,7 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 
 * Solve complex problems with simple and elegant solutions
 * Collaborate in multidisciplinary teams to achieve common objectives
-* Learn and apply new technologies and methodologies
+* Learn and apply new technologies and methodologies 
 * Improve end user experience
 
 ### Highlights
