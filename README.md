@@ -54,6 +54,6 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 ### Education
 
 * **ESRN 19(High School)** (2017 - 2021)
-	+ Bachelor in information technology.
+	+ Bachelor in Information Technology.
 * **Henry** (April 2024 - August 2024)
 	+ Full Stack Web Developer, Web Application Development
