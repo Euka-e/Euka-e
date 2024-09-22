@@ -2,6 +2,11 @@
 
 ## Full Stack Web Developer
   
+### Summary
+
+I am a passionate full stack developer with experience in building robust and efficient backend solutions. My specialty covers a variety of technologies and tools that allow me to build dynamic and scalable web applications. 
+I focus on creating high-quality products, always seeking to stay up to date with the latest trends and best practices in software development. My goal is to deliver clean, maintainable and efficient code, ensuring customer satisfaction and project success.
+
 ### Contact
 
 * Mobile: +54 9 2984893157
@@ -22,12 +27,6 @@
 * Teaching Assistant (Henry) - 2024
 * EF SET English Certificate 72/100 (C2 Proficient) - 2024
 * Cambridge FCE First Certificate (B1 Proficient) - 2020
-
-### Summary
-
-I am a passionate full stack developer with experience in building robust and efficient backend solutions. My specialty covers a variety of technologies and tools that allow me to build dynamic and scalable web applications. 
-
-I focus on creating high-quality products, always seeking to stay up to date with the latest trends and best practices in software development. My goal is to deliver clean, maintainable and efficient code, ensuring customer satisfaction and project success.
 
 ### What motivates me
 
