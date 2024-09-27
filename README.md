@@ -49,6 +49,7 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 * **Web Developer at Scrum Latam** (August 2024 - Presente)
 	+ Be part of the web development team.
 	+ Provide solutions and tools to achieve the team's proposed objectives to deliver the desired product in each sprint
+	+ Made the server initial configurations with workflow
 
 ### Education
 
