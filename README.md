@@ -1,6 +1,6 @@
 # Eric David Diaz
 
-## Full Stack Web Developer
+## Web Developer
   
 ### Summary
 
