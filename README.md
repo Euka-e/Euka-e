@@ -1,4 +1,4 @@
-# Eric David Diaz
+# Eric Diaz
 
 ## Web Developer
   
