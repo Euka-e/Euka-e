@@ -42,18 +42,18 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 
 ### Experience
 
-* **Teaching Assistant at Henry** (June 2024 - August - 2024) 
-	+ Accompaniment to Full Stack Web Developer students in technical and administrative communication difficulties
-	+ Provide tools to resolve technical problems and work on soft skills such as communication, frustration management and empathy.
-* **Full Stack Web Developer at Henry** (March 2024 - August 2024)
 * **Web Developer at Scrum Latam** (August 2024 - Presente)
 	+ Be part of the web development team.
 	+ Provide solutions and tools to achieve the team's proposed objectives to deliver the desired product in each sprint
 	+ Made the server initial configurations with workflow
+* **Teaching Assistant at Henry** (June 2024 - August - 2024) 
+	+ Accompaniment to Full Stack Web Developer students in technical and administrative communication difficulties
+	+ Provide tools to resolve technical problems and work on soft skills such as communication, frustration management and empathy.
+* **Full Stack Web Developer at Henry** (March 2024 - August 2024)
 
 ### Education
 
-* **ESRN 19(High School)** (2017 - 2021)
-	+ Bachelor in Information Technology.
 * **Henry** (April 2024 - August 2024)
 	+ Full Stack Web Developer, Web Application Development
+* **ESRN 19(High School)** (2017 - 2021)
+	+ Bachelor in Information Technology.
