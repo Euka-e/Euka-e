@@ -1,6 +1,6 @@
 # Eric Diaz
 
-## Web Developer
+## Web Developer 
   
 ### Summary
 
