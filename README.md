@@ -1,7 +1,7 @@
 # Eric Diaz
 
 ## Web Developer  
-  
+   
 ### Summary
 
 I am a passionate full stack developer with experience in building robust and efficient backend solutions. My specialty covers a variety of technologies and tools that allow me to build dynamic and scalable web applications.  
