@@ -26,7 +26,7 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 * Full Stack Web Developer (Henry) - 2024
 * Teaching Assistant (Henry) - 2024
 * EF SET English Certificate 72/100 (C2 Proficient) - 2024
-* Cambridge FCE First Certificate (B1 Proficient) - 2020
+* Cambridge FCE First Certificate (B2 Proficient) - 2020
 
 ### What motivates me
 
