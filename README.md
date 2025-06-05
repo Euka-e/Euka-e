@@ -28,14 +28,14 @@
 
 ### 💡 Professional Experience  
 
-**🧩 Full Stack Engineer** Continental Venture Capital *(Dec 2024 - Present)*  
+**🧩 Full Stack Engineer** @ Continental Venture Capital `📍US` *(Dec 2024 - Present)*  
 *(Focus on Frontend & Team Leadership)*  
 - Spearheaded project configurations and architectural setups for new applications  
 - Implemented GitHub workflows automating AWS deployments and performance analysis  
 - Mentored team members on problem-solving methodologies and code quality standards  
 - Conducted QA processes and technical documentation for cross-functional alignment
 
-**🚀 Full Stack Developer** @ Zite (ex Dealflow) *(Sep 2024 - Nov 2024)*  
+**🚀 Full Stack Developer** @ Zite `📍AR` (ex Dealflow) *(Sep 2024 - Nov 2024)*  
 *(Internship Contract)*  
 - **Tech Stack:** React, Node.js, PostgreSQL, AWS  
 - Developed financing platform connecting entrepreneurs with institutional investors  
@@ -44,17 +44,17 @@
 - Integrated secure transaction processing and document management  
 - Optimized database queries for financial data analytics 
 
-**🌐 Web Developer** Scrum Latam *(Aug 2024 - Dec 2024)*  
+**🌐 Web Developer** @ Scrum Latam `📍COL` *(Aug 2024 - Dec 2024)*  
 - Developed full-stack features meeting sprint objectives in agile environment  
 - Configured server infrastructure and CI/CD pipelines  
 - Collaborated in cross-functional teams to deliver user-focused solutions  
 
-**👨‍🏫 Teaching Assistant** Henry *(Jun 2024 - Aug 2024)*  
+**👨‍🏫 Teaching Assistant** @ Henry `📍AR` *(Jun 2024 - Aug 2024)*  
 - Coached 50+ students in full-stack development concepts and debugging techniques  
 - Developed training materials for JavaScript frameworks and backend architecture  
 - Facilitated workshops on soft skills (communication, agile methodologies)  
 
-**💻 Full Stack Developer Bootcamp** Henry *(Mar 2024 - Aug 2024)*  
+**💻 Full Stack Developer Bootcamp** @ Henry `📍AR` *(Mar 2024 - Aug 2024)*  
 - Completed 800+ hours of intensive training in modern web development  
 
 ---
