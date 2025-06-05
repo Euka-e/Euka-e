@@ -33,7 +33,16 @@
 - Spearheaded project configurations and architectural setups for new applications  
 - Implemented GitHub workflows automating AWS deployments and performance analysis  
 - Mentored team members on problem-solving methodologies and code quality standards  
-- Conducted QA processes and technical documentation for cross-functional alignment  
+- Conducted QA processes and technical documentation for cross-functional alignment
+
+**🚀 Full Stack Developer** @ Zite (ex Dealflow) *(Sep 2024 - Nov 2024)*  
+*(Internship Contract)*  
+- **Tech Stack:** React, Node.js, PostgreSQL, AWS  
+- Developed financing platform connecting entrepreneurs with institutional investors  
+- Implemented investment management tools for growing businesses  
+- Created project evaluation features enabling data-driven investment decisions  
+- Integrated secure transaction processing and document management  
+- Optimized database queries for financial data analytics 
 
 **🌐 Web Developer** Scrum Latam *(Aug 2024 - Dec 2024)*  
 - Developed full-stack features meeting sprint objectives in agile environment  
