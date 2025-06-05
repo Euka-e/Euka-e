@@ -15,18 +15,29 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 
 ### Main Skills
 
-* NestJS
 * Next.js
-* ExpressJS
+* NestJS
+* Docker
 * Node.js
-* Swagger API
+* Ui/Ux
 
-### Certifications
+### Experience
 
-* Full Stack Web Developer (Henry) - 2024
-* Teaching Assistant (Henry) - 2024
-* EF SET English Certificate 72/100 (C2 Proficient) - 2024
-* Cambridge FCE First Certificate (B2 Proficient) - 2020
+* **FullStack Engineer at Continental Venture Capital(Focus on Frontend)** (December 2024 - Present)
+	+ Transfere problem solving skills to collegues.
+ 	+ Documenting issues, QA, and different aplication and work environment setup
+	+ Give feedback and analysis of the team work to improve project quality from frontend to backend.
+	+ Make projects initial configurations.
+	+ Set Github workflows on various repositories(Authomatic deployment on aws, authomatic performance analysis).
+* **Web Developer at Scrum Latam** (August 2024 - December 2024)
+	+ Be part of the web development team.
+	+ Provide solutions and tools to achieve the team's proposed objectives to deliver the desired product in each sprint.
+	+ Made the server initial configurations with workflow.
+* **Teaching Assistant at Henry** (June 2024 - August 2024) 
+	+ Accompaniment to Full Stack Web Developer students in technical and administrative communication difficulties
+	+ Provide tools to resolve technical problems and work on soft skills such as communication, frustration management and empathy.
+* **Full Stack Web Developer at Henry** (March 2024 - August 2024)
+
 
 ### What motivates me
 
@@ -40,20 +51,16 @@ I focus on creating high-quality products, always seeking to stay up to date wit
 * APIs Integration and third services
 * Implementation of secure authentication and authorization systems
 
-### Experience
-
-* **Web Developer at Scrum Latam** (August 2024 - Present)
-	+ Be part of the web development team.
-	+ Provide solutions and tools to achieve the team's proposed objectives to deliver the desired product in each sprint
-	+ Made the server initial configurations with workflow
-* **Teaching Assistant at Henry** (June 2024 - August 2024) 
-	+ Accompaniment to Full Stack Web Developer students in technical and administrative communication difficulties
-	+ Provide tools to resolve technical problems and work on soft skills such as communication, frustration management and empathy.
-* **Full Stack Web Developer at Henry** (March 2024 - August 2024)
-
 ### Education
 
 * **Henry** (April 2024 - August 2024)
 	+ Full Stack Web Developer, Web Application Development
 * **ESRN 19(High School)** (2017 - 2021)
 	+ Bachelor in Information Technology.
+
+### Certifications
+
+* Full Stack Web Developer (Henry) - 2024
+* Teaching Assistant (Henry) - 2024
+* EF SET English Certificate 72/100 (C2 Proficient) - 2024
+* Cambridge FCE First Certificate (B2 Proficient) - 2020
