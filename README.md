@@ -28,7 +28,7 @@
 
 ### 💡 Professional Experience  
 
-**🧩 Full Stack Engineer** @ Continental Venture Capital `📍US` *(Dec 2024 - Present)*  
+**🧩 Full Stack Engineer** @ Continental Venture Capital `📍US` *(Dec 2024 - Jul 2025)*  
 *(Focus on Frontend & Team Leadership)*  
 - Spearheaded project configurations and architectural setups for new applications  
 - Implemented GitHub workflows automating AWS deployments and performance analysis  
