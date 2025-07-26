@@ -79,8 +79,8 @@
   - Built a portfolio website Astro.js
 
 - **Argentina Programa** *(Dec 2021 - Feb 2023)*  
-  *National Plan for IT Learning and Training*  
-  - Focused on programming fundamentals and software development
+  *National Plan for IT Learning and Training focused on Full Stack Web Development*  
+  - Focused on programming fundamentals and full stack web development
   - Java • Angular • Spring boot • Python
 
 - **ESRN 19** *(2017 - 2021)*  
