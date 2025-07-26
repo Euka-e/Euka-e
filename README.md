@@ -29,7 +29,8 @@
 ### 💡 Professional Experience  
 
 **🧩 Full Stack Engineer** @ Continental Venture Capital `📍US` *(Dec 2024 - Jul 2025)*  
-*(Focus on Frontend & Team Leadership)*  
+*(Focus on Frontend & Team Leadership)*
+- **Tech Stack:** NextJs, Docker, Kubernetes, AWS, Terraform, Accessibility
 - Spearheaded project configurations and architectural setups for new applications  
 - Implemented GitHub workflows automating AWS deployments and performance analysis  
 - Mentored team members on problem-solving methodologies and code quality standards  
@@ -68,10 +69,23 @@
 ---
 
 ### 📚 Education & Credentials  
-| **Henry Bootcamp**               | *Apr 2024 - Aug 2024* |  
-| Full Stack Web Development       | JavaScript • React • PostgreSQL |  
-| **ESRN 19**                      | *2017 - 2021*         |  
-| IT Bachelor's Degree             | Networking • Systems Design     |  
+- **Henry Bootcamp** *(April 2024 - Aug 2024)*  
+  *Full Stack Web Development*  
+  - Typescript • React • MongoDB • PostgreSQL • NextJS • NestJS • Testing • Docker • Deployment
+
+- **Independent Projects** *(2023)*  
+  - Developed personal projects to enhance skills in web development and modern frameworks
+  - Developed a task management app using React, Node.js, and MongoDB
+  - Built a portfolio website Astro and Javascript
+
+- **Argentina Programa** *(Dec 2021 - Feb 2023)*  
+  *National Plan for IT Learning and Training*  
+  - Focused on programming fundamentals and software development
+  - Java • Angular • Spring boot • Python
+
+- **ESRN 19** *(2017 - 2021)*  
+  *High School Diploma in Information Technology*  
+  - Networking • Systems Design • IT Project Management
 
 **📜 Certifications**  
 - AWS Cloud Practitioner (In Progress)  
