@@ -4,7 +4,7 @@
 
 ---
 
-### 📍 Contact  
+### 📍 Let's Conect  
 - **Email:** [Send Email](mailto:ericdiazeuka@gmail.com)  
 - **LinkedIn:** [Go to linkedin](http://www.linkedin.com/in/eric-diaz-euka)
 - **Portfolio:** [Go to my portfolio](https://ericdiazportfolio.vercel.app)
@@ -61,10 +61,10 @@
 ---
 
 ### 🏆 Key Achievements  
-- **System Optimization:** Reduced deployment times by 40% through automated CI/CD pipelines  
-- **Security:** Implemented JWT/OAuth authentication systems for enterprise applications  
-- **Integration:** Connected 15+ third-party APIs including payment gateways and analytics  
-- **UX Enhancement:** Redesigned UI components improving user engagement by 25%  
+- 🚀 **System Optimization:** Reduced deployment times by 40% through automated CI/CD pipelines, saving 10+ hours per week for the team  
+- 🔒 **Security:** Implemented JWT/OAuth authentication systems for enterprise applications  
+- 🔗 **Integration:** Connected 15+ third-party APIs including payment gateways and analytics  
+- 🎨 **UX Enhancement:** Redesigned UI components improving user engagement by 25%
 
 ---
 
@@ -74,9 +74,9 @@
   - Typescript • React • MongoDB • PostgreSQL • NextJS • NestJS • Testing • Docker • Deployment
 
 - **Independent Projects** *(2023)*  
-  - Developed personal projects to enhance skills in web development and modern frameworks
-  - Developed a task management app using React, Node.js, and MongoDB
-  - Built a portfolio website Astro and Javascript
+  - Developed a task management app using React, Node.js, and MongoDB, enabling users to organize tasks with real-time updates.
+  - Built a portfolio website using Astro.js and JavaScript, showcasing personal projects and skills with a responsive design.
+  - Built a portfolio website Astro.js
 
 - **Argentina Programa** *(Dec 2021 - Feb 2023)*  
   *National Plan for IT Learning and Training*  
@@ -88,7 +88,8 @@
   - Networking • Systems Design • IT Project Management
 
 **📜 Certifications**  
-- AWS Cloud Practitioner (In Progress)  
+- Design Thinking - Certiprof *(Feb 2025)*
+- AWS Cloud Practitioner *(Expected: Sep 2025)*
 - EF SET English Certificate (C2 Proficient - 72/100)  
 - Cambridge FCE First Certificate (B2)  
 - Full Stack Developer (Henry)  
@@ -96,4 +97,4 @@
 ---
 
 ### 🔥 What Drives Me  
-> *"Transforming complex challenges into elegant solutions through clean code and collaborative innovation. Passionate about optimizing user experiences while staying at technology's cutting edge."*  
+> *"I am passionate about solving complex challenges with clean code and innovative solutions. My goal is to create seamless user experiences while continuously learning and staying ahead in the tech industry."*
