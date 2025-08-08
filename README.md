@@ -20,7 +20,7 @@
 | TypeScript         | Express.js          | GitHub Actions     | Firebase          | Playwright        | Adobe Illustrator|
 | Redux/Zustand      | RESTful APIs        | CI/CD Pipelines    | MySQL             | Postman           | User Testing     |
 | Tailwind CSS       | GraphQL             | Nginx              | Drizzle           | Jasmine           | Responsive Design|
-| Material UI        | Microservices       | Terraform          | TypeORM           |                   | Accessibility    |
+| Material UI        | Microservices       | Terraform          | TypeORM           | Cypress           | Accessibility    |
 | Webpack/Vite       | WebSockets          | Kubernetes         | MySql             |                   | Wireframing      |
 | JavaScript         | Authentication      | Serverless         | Prisma            |                   | Design Systems   |
 
