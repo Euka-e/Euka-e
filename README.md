@@ -38,12 +38,12 @@
 
 **🚀 Full Stack Developer** @ Zite `📍AR` (ex Dealflow) *(Sep 2024 - Nov 2024)*  
 *(Internship Contract)*  
-- **Tech Stack:** React, Node.js, PostgreSQL, AWS  
-- Developed financing platform connecting entrepreneurs with institutional investors  
-- Implemented investment management tools for growing businesses  
-- Created project evaluation features enabling data-driven investment decisions  
-- Integrated secure transaction processing and document management  
-- Optimized database queries for financial data analytics 
+- **Tech Stack:** React, TypeScript, Supabase (PostgreSQL), GraphQL, ShadCN, Azure OpenAI
+- Developed a metrics dashboard for a web application, displaying customized KPI charts and statistical graphics.
+- Designed and executed database migrations in Supabase for local development.
+- Retrieved and formatted data using GraphQL to feed interactive visualization components.
+
+Integrated Azure OpenAI to generate automated KPI reports, highlights, and predictions based on processed data.
 
 **🌐 Web Developer** @ Scrum Latam `📍COL` *(Aug 2024 - Dec 2024)*  
 - Developed full-stack features meeting sprint objectives in agile environment  
@@ -55,8 +55,13 @@
 - Developed training materials for JavaScript frameworks and backend architecture  
 - Facilitated workshops on soft skills (communication, agile methodologies)  
 
-**💻 Full Stack Developer Bootcamp** @ Henry `📍AR` *(Mar 2024 - Aug 2024)*  
-- Completed 800+ hours of intensive training in modern web development  
+**💻 Full Stack Developer** @ Freelance `📍AR` *(Mar 2021 - Present)*  
+Providing end-to-end web development services for clients across various industries. Responsible for designing, developing, and maintaining responsive web applications using modern technologies such as React, Node.js, TypeScript, and PostgreSQL. Projects range from small business websites to complex, data-driven platforms.
+Key contributions include:
+- Collaborating directly with clients to gather requirements and translate them into functional solutions.
+- Building scalable, maintainable, and user-friendly applications with a focus on performance and accessibility.
+- Integrating APIs, managing databases, and deploying projects to cloud platforms.
+- Ensuring code quality through testing and version control best practices.
 
 ---
 
@@ -89,7 +94,6 @@
 
 **📜 Certifications**  
 - Design Thinking - Certiprof *(Feb 2025)*
-- AWS Cloud Practitioner *(Expected: Sep 2025)*
 - EF SET English Certificate (C2 Proficient - 72/100)  
 - Cambridge FCE First Certificate (B2)  
 - Full Stack Developer (Henry)  
