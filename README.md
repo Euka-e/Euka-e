@@ -16,12 +16,13 @@
 | **Frontend**       | **Backend/API**     | **DevOps & Cloud** | **Databases**     | **Testing**       | **UX/UI Tools**   |
 |--------------------|---------------------|--------------------|-------------------|-------------------|-------------------|
 | Next.js            | NestJS              | Docker             | PostgreSQL        | Jest              | Figma            |
+| React Native       | CodeIgniter         | Google Cloud Serv. | MariaDB           | Selenium          | Affinity Designer|
 | React              | Node.js             | AWS (EC2, S3)      | MongoDB           | React Testing Lib | Adobe Photoshop  |
 | TypeScript         | Express.js          | GitHub Actions     | Firebase          | Playwright        | Adobe Illustrator|
 | Redux/Zustand      | RESTful APIs        | CI/CD Pipelines    | MySQL             | Postman           | User Testing     |
 | Tailwind CSS       | GraphQL             | Nginx              | Drizzle           | Jasmine           | Responsive Design|
 | Material UI        | Microservices       | Terraform          | TypeORM           | Cypress           | Accessibility    |
-| Webpack/Vite       | WebSockets          | Kubernetes         | MySql             |                   | Wireframing      |
+| Webpack/Vite       | WebSockets          | Kubernetes         | SQLite            |                   | Wireframing      |
 | JavaScript         | Authentication      | Serverless         | Prisma            |                   | Design Systems   |
 
 ---
