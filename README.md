@@ -15,19 +15,27 @@
 
 | **Frontend**       | **Backend/API**     | **DevOps & Cloud** | **Databases**     | **Testing**       | **UX/UI Tools**   |
 |--------------------|---------------------|--------------------|-------------------|-------------------|-------------------|
-| Next.js            | NestJS              | Docker             | PostgreSQL        | Jest              | Figma            |
-| React Native       | CodeIgniter         | Google Cloud Serv. | MariaDB           | Selenium          | Affinity Designer|
-| React              | Node.js             | AWS (EC2, S3)      | MongoDB           | React Testing Lib | Adobe Photoshop  |
-| TypeScript         | Express.js          | GitHub Actions     | Firebase          | Playwright        | Adobe Illustrator|
-| Redux/Zustand      | RESTful APIs        | CI/CD Pipelines    | MySQL             | Postman           | User Testing     |
-| Tailwind CSS       | GraphQL             | Nginx              | Drizzle           | Jasmine           | Responsive Design|
-| Material UI        | Microservices       | Terraform          | TypeORM           | Cypress           | Accessibility    |
-| Webpack/Vite       | WebSockets          | Kubernetes         | SQLite            |                   | Wireframing      |
-| JavaScript         | Authentication      | Serverless         | Prisma            |                   | Design Systems   |
+| Next.js            | NestJS              | Docker             | PostgreSQL        | Jest              | Figma             |
+| React Native       | CodeIgniter         | Google Cloud Serv. | MariaDB           | Selenium          | Affinity Designer |
+| React              | Node.js             | AWS (EC2, S3)      | MongoDB           | React Testing Lib | Adobe Photoshop   |
+| Vue                | Express.js          | GitHub Actions     | Firebase          | Playwright        | Adobe Illustrator |
+| Redux/Zustand      | RESTful APIs        | CI/CD Pipelines    | MySQL             | Postman           | User Testing      |
+| Tailwind CSS       | GraphQL             | Nginx              | Drizzle           | Jasmine           | Responsive Design |
+| Material UI        | Microservices       | Terraform          | TypeORM           | Cypress           | Accessibility     |
+| Webpack/Vite       | WebSockets          | Kubernetes         | SQLite            |                   | Wireframing       |
+| Three.js           | Authentication      | Serverless         | Prisma            |                   | Design Systems    |
 
 ---
 
 ### 💡 Professional Experience  
+
+**💻 Full Stack Developer** @ Freelance `📍AR` *(Mar 2021 - Present)*  
+Providing end-to-end web development services for clients across various industries. Responsible for designing, developing, and maintaining responsive web applications using modern technologies such as React, Node.js, TypeScript, and PostgreSQL. Projects range from small business websites to complex, data-driven platforms.
+Key contributions include:
+- Collaborating directly with clients to gather requirements and translate them into functional solutions.
+- Building scalable, maintainable, and user-friendly applications with a focus on performance and accessibility.
+- Integrating APIs, managing databases, and deploying projects to cloud platforms.
+- Ensuring code quality through testing and version control best practices.
 
 **🧩 Full Stack Engineer** @ Continental Venture Capital `📍US` *(Dec 2024 - Jul 2025)*  
 *(Focus on Frontend & Team Leadership)*
@@ -37,14 +45,21 @@
 - Mentored team members on problem-solving methodologies and code quality standards  
 - Conducted QA processes and technical documentation for cross-functional alignment
 
+**🚀 Full Stack Developer** @ Quality Soft `📍AR` *(Nov 2024 - Dec 2024)*  
+*(Internship Contract)*  
+- **Tech Stack:** PHP, CodeIgniter 3, NestJs
+- Migrated a legacy full-stack PHP application (CodeIgniter 3) into a microservices-based architecture.
+- Separated backend logic into an independent application to improve scalability and maintainability.
+- Refactored existing code to modern standards, enhancing performance and reducing technical debt.
+- Collaborated in redesigning system architecture to support modular development and easier future integrations.
+
 **🚀 Full Stack Developer** @ Zite `📍AR` (ex Dealflow) *(Sep 2024 - Nov 2024)*  
 *(Internship Contract)*  
 - **Tech Stack:** React, TypeScript, Supabase (PostgreSQL), GraphQL, ShadCN, Azure OpenAI
 - Developed a metrics dashboard for a web application, displaying customized KPI charts and statistical graphics.
 - Designed and executed database migrations in Supabase for local development.
 - Retrieved and formatted data using GraphQL to feed interactive visualization components.
-
-Integrated Azure OpenAI to generate automated KPI reports, highlights, and predictions based on processed data.
+- Integrated Azure OpenAI to generate automated KPI reports, highlights, and predictions based on processed data.
 
 **🌐 Web Developer** @ Scrum Latam `📍COL` *(Aug 2024 - Dec 2024)*  
 - Developed full-stack features meeting sprint objectives in agile environment  
@@ -55,14 +70,6 @@ Integrated Azure OpenAI to generate automated KPI reports, highlights, and predi
 - Coached 50+ students in full-stack development concepts and debugging techniques  
 - Developed training materials for JavaScript frameworks and backend architecture  
 - Facilitated workshops on soft skills (communication, agile methodologies)  
-
-**💻 Full Stack Developer** @ Freelance `📍AR` *(Mar 2021 - Present)*  
-Providing end-to-end web development services for clients across various industries. Responsible for designing, developing, and maintaining responsive web applications using modern technologies such as React, Node.js, TypeScript, and PostgreSQL. Projects range from small business websites to complex, data-driven platforms.
-Key contributions include:
-- Collaborating directly with clients to gather requirements and translate them into functional solutions.
-- Building scalable, maintainable, and user-friendly applications with a focus on performance and accessibility.
-- Integrating APIs, managing databases, and deploying projects to cloud platforms.
-- Ensuring code quality through testing and version control best practices.
 
 ---
 
