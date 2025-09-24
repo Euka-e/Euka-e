@@ -29,13 +29,14 @@
 
 ### 💡 Professional Experience  
 
+**💻 Full Stack Developer** @ AppWise Innovations`📍AR` *(Aug 2021 - Present)*  
+Develop and maintain full-stack web applications, handling projects end-to-end—from frontend interfaces to backend services. Work with modern tools and frameworks to build scalable, efficient, and user-friendly solutions. Maintain constant communication with clients throughout the development process to ensure alignment with their needs and deliver high-quality, tailored results.
+
 **💻 Full Stack Developer** @ Freelance `📍AR` *(Mar 2021 - Present)*  
-Providing end-to-end web development services for clients across various industries. Responsible for designing, developing, and maintaining responsive web applications using modern technologies such as React, Node.js, TypeScript, and PostgreSQL. Projects range from small business websites to complex, data-driven platforms.
-Key contributions include:
-- Collaborating directly with clients to gather requirements and translate them into functional solutions.
+Responsible for designing, developing, and maintaining responsive web applications using modern technologies such as React, Node.js, TypeScript, and PostgreSQL. Projects range from small business websites to complex, data-driven platforms.
+- Collaborating directly with clients.
 - Building scalable, maintainable, and user-friendly applications with a focus on performance and accessibility.
 - Integrating APIs, managing databases, and deploying projects to cloud platforms.
-- Ensuring code quality through testing and version control best practices.
 
 **🧩 Full Stack Engineer** @ Continental Venture Capital `📍US` *(Dec 2024 - Jul 2025)*  
 *(Focus on Frontend & Team Leadership)*
