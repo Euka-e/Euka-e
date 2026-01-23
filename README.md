@@ -29,7 +29,7 @@
 
 ### 💡 Professional Experience  
 
-**💻 Full Stack Developer** @ AppWise Innovations`📍AR` *(Aug 2021 - Present)*  
+**💻 Full Stack Developer** @ AppWise Innovations`📍AR` *(Aug 2025 - Present)*  
 Develop and maintain full-stack web applications, handling projects end-to-end—from frontend interfaces to backend services. Work with modern tools and frameworks to build scalable, efficient, and user-friendly solutions. Maintain constant communication with clients throughout the development process to ensure alignment with their needs and deliver high-quality, tailored results.
 
 **💻 Full Stack Developer** @ Freelance `📍AR` *(Mar 2021 - Present)*  
